@@ -2,7 +2,7 @@
 
 ## {{ JAVASCRIPT }}
 
-#### * JS功能函数库
+#### * Javascript Utility Library
 
 - [underscore](https://github.com/jashkenas/underscore)
   1. [not need underscore](https://www.reindex.io/blog/you-might-not-need-underscore/)
@@ -14,12 +14,18 @@
 #### * ECMAScript 6(2015)
 
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [babel](https://github.com/babel/babel)
 
 #### * SEO
 
 - [prerender](https://prerender.io/)
 
----
+#### * Modules
+
+- [requirejs](https://github.com/jrburke/requirejs)
+- [seajs](https://github.com/seajs/seajs)
+
+<br/>
 
 ## {{ CSS }}
 
@@ -45,8 +51,9 @@
 
 - [prefetch](http://www.jianshu.com/p/7f58ddfc1392)
 - [history](http://www.zhangxinxu.com/wordpress/2013/06/html5-history-api-pushstate-replacestate-ajax/)
+- [< meta />](http://segmentfault.com/a/1190000002407912)
 
----
+<br/>
 
 ## {{ NodeJS }}
 
@@ -56,7 +63,7 @@
 
 #### * CLI
 
-- [resume教程](http://segmentfault.com/a/1190000002918295)
+- [resume (教程)](http://segmentfault.com/a/1190000002918295)
 - [mockman](https://github.com/FrendEr/mock-man)
 - [showman](https://github.com/FrendEr/show-man)
 - [caniuse](https://github.com/sgentle/caniuse-cmd)
@@ -87,12 +94,52 @@
 - [前后端分离的思考与实践（五）—— 基于前后端分离的多终端适配](http://ued.taobao.org/blog/2014/05/cross-platform-tpl/)
 - [前后端分离的思考与实践（六）—— Nginx + Node.js + Java 的软件栈部署实践](http://ued.taobao.org/blog/2014/05/midway-deploy/)
 
----
+<br/>
 
 ## {{ Test }}
 
-#### * Mobile
+- [mocha](https://github.com/mochajs/mocha)
+- [karma](https://github.com/karma-runner/karma)
+- [jasmine](https://github.com/jasmine/jasmine)
+
+<br/>
+
+## {{ Mobile }}
+
+#### * Debug
 
 - [移动调试方法总结](http://frend.cc/debug/2015/06/30/debug-gap.html)
 - [真机远程调试方法汇总](http://blog.scalap.com/tech/18.html)
 - [browserstack](https://www.browserstack.com/start#os=Windows&os_version=7&browser=IE&browser_version=8.0&zoom_to_fit=true&full_screen=true&resolution=responsive-mode&url=www.google.com&speed=1)
+
+#### * Touch Events
+
+- [手机浏览器常用手势动作监听封装](http://wo.poco.cn/manson/post/id/268780)
+
+#### * 指尖JS系列
+
+- [多触式web前端开发之一：对于Touch的处理](http://www.cnblogs.com/pifoo/archive/2011/05/23/webkit-touch-event-1.html)
+- [多触式web前端开发之二：处理简单手势](http://www.cnblogs.com/pifoo/archive/2011/05/22/webkit-touch-event-2.html)
+- [多触式web前端开发之三：处理复杂手势](http://www.cnblogs.com/pifoo/archive/2011/05/22/webkit-touch-event-3.html)
+
+#### * Blog
+
+- [mobileTech](https://github.com/jtyjty99999/mobileTech)
+- [叶小钗](http://www.cnblogs.com/yexiaochai/)
+
+<br/>
+
+## {{ Builder }}
+
+- [webpack](https://github.com/webpack/webpack)
+- [browserify](https://github.com/substack/node-browserify)
+- [component](https://github.com/componentjs/component)
+- [duo](https://github.com/duojs/duo)
+- [spm](https://github.com/spmjs/spm)
+- [gulp](https://github.com/gulpjs/gulp)
+- [grunt](https://github.com/gruntjs/grunt)
+- [yo](https://github.com/yeoman/yo)
+- [MT](https://github.com/mtjs/mt)
+- [FIS3](https://github.com/fex-team/fis3)
+- [rsd](https://github.com/fouber/static-resource-digest)
+- [Assets Pipeline](http://guides.rubyonrails.org/asset_pipeline.html) [(中文)](http://guides.ruby-china.org/asset_pipeline.html)
