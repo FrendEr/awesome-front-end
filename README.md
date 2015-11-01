@@ -25,6 +25,14 @@
 - [requirejs](https://github.com/jrburke/requirejs)
 - [seajs](https://github.com/seajs/seajs)
 
+#### * Performance
+
+- [benchmark](https://github.com/bestiejs/benchmark.js)
+
+#### * this
+
+- [图解this](http://mp.weixin.qq.com/s?__biz=MjM5MzMyNzg0MA==&mid=400197911&idx=2&sn=25ceb819a04d99a1eea27eeea94ae547&scene=0#wechat_redirect)
+
 <br/>
 
 ## {{ CSS }}
@@ -44,6 +52,7 @@
 
 - [cssguidelin](http://cssguidelin.es/)
 
+<br/>
 
 ## {{ HTML }}
 
@@ -143,3 +152,12 @@
 - [FIS3](https://github.com/fex-team/fis3)
 - [rsd](https://github.com/fouber/static-resource-digest)
 - [Assets Pipeline](http://guides.rubyonrails.org/asset_pipeline.html) [(中文)](http://guides.ruby-china.org/asset_pipeline.html)
+- [cha](https://github.com/chajs/cha)
+
+<br/>
+
+# {{ Git }}
+
+- [Git基础小结](https://www.evernote.com/shard/s211/sh/1ac0b49c-1c14-4ea7-9152-a5885fa13c04/c1049382f77c8aaf)
+- [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [Pro Git](http://iissnan.com/progit/)
