@@ -120,6 +120,7 @@
 - [移动调试方法总结](http://frend.cc/debug/2015/06/30/debug-gap.html)
 - [真机远程调试方法汇总](http://blog.scalap.com/tech/18.html)
 - [browserstack](https://www.browserstack.com/start#os=Windows&os_version=7&browser=IE&browser_version=8.0&zoom_to_fit=true&full_screen=true&resolution=responsive-mode&url=www.google.com&speed=1)
+- [BrowserSync](https://github.com/BrowserSync/browser-sync)
 
 #### * Touch Events
 
