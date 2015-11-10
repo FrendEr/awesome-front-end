@@ -177,3 +177,13 @@
 - [vue](https://github.com/vuejs/vue)
 - [knockout](https://github.com/knockout/knockout)
 - [ember](https://github.com/emberjs/ember.js)
+
+<br/>
+
+## {{ Editor Config }}
+
+- [EditorConfig](http://editorconfig.org/)
+  1. [real-world examples](https://github.com/editorconfig/editorconfig/wiki/Projects-Using-EditorConfig)
+
+- [JSHint](https://github.com/jshint/jshint)
+- [ESLint](http://eslint.org/)
