@@ -187,3 +187,4 @@
 
 - [JSHint](https://github.com/jshint/jshint)
 - [ESLint](http://eslint.org/)
+- [JSFormat](https://github.com/jdc0589/JsFormat)
