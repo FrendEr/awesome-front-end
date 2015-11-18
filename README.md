@@ -179,3 +179,14 @@
 - [vue](https://github.com/vuejs/vue)
 - [knockout](https://github.com/knockout/knockout)
 - [ember](https://github.com/emberjs/ember.js)
+
+<br/>
+
+## {{ Format Config }}
+
+- [EditorConfig](http://editorconfig.org/) [(中文)](http://ju.outofmemory.cn/entry/104488)
+  1. [real-world examples](https://github.com/editorconfig/editorconfig/wiki/Projects-Using-EditorConfig)
+
+- [JSHint](https://github.com/jshint/jshint)
+- [ESLint](http://eslint.org/)
+- [JSFormat](https://github.com/jdc0589/JsFormat)
