@@ -110,6 +110,8 @@
 - [mocha](https://github.com/mochajs/mocha)
 - [karma](https://github.com/karma-runner/karma)
 - [jasmine](https://github.com/jasmine/jasmine)
+- [chai](https://github.com/chaijs/chai)
+- [sinon](https://github.com/sinonjs/sinon)
 
 <br/>
 
